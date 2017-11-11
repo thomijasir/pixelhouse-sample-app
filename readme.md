@@ -1,9 +1,9 @@
 # PixelHouse Twitter Application
 Sample Application
 
-* [Laravel Standard](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelnormal)
-* [Laravel Jquery](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laraveljquery)
-* [Laravel React](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelreact)
+* [Laravel Standard](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelnormal) - Nomor 1
+* [Laravel Jquery](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laraveljquery) - Nomor 1 + More Feature + Realtime
+* [Laravel React](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelreact) - Nomor 2
 
 
 ### Run Project
