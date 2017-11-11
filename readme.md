@@ -1,9 +1,10 @@
-# Pixelhous Twitter Aoolication
+# Pixelhous Twitter Application
 Sample Application
 
-Laravel Standard
-Laravel Jquery
-Laravel React
+* [Laravel Standard](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelnormal)
+* [Laravel Jquery](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laraveljquery)
+* [Laravel React](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelreact)
+
 
 ### Run Project
 ````
