@@ -78,9 +78,9 @@
         </div>
 
         <div class="links">
-            <a href="https://laravel.com/docs">Twitter Standar</a>
-            <a href="https://laracasts.com">Twitter Jquery</a>
-            <a href="https://laravel-news.com">Twitter React</a>
+            <a href="https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelnormal">Twitter Standar</a>
+            <a href="https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laraveljquery">Twitter Jquery</a>
+            <a href="https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelreact">Twitter React</a>
         </div>
     </div>
 </div>
