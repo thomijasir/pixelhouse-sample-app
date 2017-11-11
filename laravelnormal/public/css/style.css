@@ -1,0 +1,33 @@
+.twitter-feed{
+    padding: 16px;
+    border-bottom: solid rgba(0, 0, 0, 0.56) 1px;
+}
+.asOwner{
+    background: #a5d6a7;
+}
+
+.blocs {
+    border: dashed 2px #000000;
+}
+
+/** MEDIA QUERY RESPONSIVE **/
+
+.pf{
+    height: 72px;
+    width: 72px;
+}
+
+@media screen and (max-width: 780px) {
+    .pf{
+        height: 50px;
+        width: 50px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .pf{
+        height: 35px;
+        width: 35px;
+        margin-top: 50%;
+    }
+}
