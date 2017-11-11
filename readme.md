@@ -1,4 +1,4 @@
-# Pixelhous Twitter Application
+# PixelHouse Twitter Application
 Sample Application
 
 * [Laravel Standard](https://github.com/thomijasir/pixelhouse-sample-app/tree/master/laravelnormal)
